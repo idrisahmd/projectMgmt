@@ -78,7 +78,7 @@
             <tr>
                 <td>
                     <button type="submit" value="Submit" style="border-style: hidden; border-width: thin; height: 29px; width: 77px; background-color: #FF9B37;" >Submit</button>&nbsp;&nbsp
-                    <button type="reset" value="Reset" style="border-style: hidden; border-width: thin; height: 29px; width: 79px; background-color: #ff9b37;" >Reset</button></td>
+                   &nbsp;&nbsp;&nbsp; <button type="reset" value="Reset" style="border-style: hidden; border-width: thin; height: 29px; width: 79px; background-color: #ff9b37;" >Reset</button></td>
             </tr>
         </table>
 

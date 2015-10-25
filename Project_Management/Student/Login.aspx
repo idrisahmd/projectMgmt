@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sign in</title>
 
-
+    <link href="css/buttons.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="css/set2.css" />
     <link href="css/buttons.css" rel="stylesheet" />
     <link rel="shortcut icon" href="../favicon.ico" />
@@ -75,8 +75,8 @@
             </tr>
             <tr>
                 <td>
-                    <button type="submit" value="Submit" style="border-style: hidden; border-width: thin; height: 29px; width: 77px; background-color: #FF9B37;" >Submit</button>&nbsp;&nbsp
-                    <button type="reset" value="Reset" style="border-style: hidden; border-width: thin; height: 29px; width: 79px; background-color: #ff9b37;" >Reset</button></td>
+                    <button class="button button--ujarak button--border-thin button--text-thick">Login</button><br /><br /><br />
+					<button class="button button--ujarak button--border-thin button--text-thick">Reset</button></td>
             </tr>
         </table>
         <br />
